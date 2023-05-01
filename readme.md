@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=G3FarEl3eeb&label=Profile+Views&style=plastic&color=blueviolet" alt="G3FarEl3eeb"/></a>
   <a href="https://github.com/G3FarEl3eeb/Verti-Hub/releases"><img src="https://img.shields.io/badge/Download-Release-blueviolet.svg?style=plastic" alt="Download"></a>
- <a href="https://github.com/G3FarEl3eeb/Verti-Hub/issues" target="blank"><img src="https://img.shields.io/github/issues/G3FarEl3eeb/Verti-Hub?style=plastic&color=blueviolet" alt="G3FarEl3eeb issues"/></a>
+ <a href="https://github.com/G3FarEl3eeb/Verti-Hub/issues" target="blank"><img alt="Issus: 1 Opened" src="https://img.shields.io/badge/Issus-1%20Opened-blueviolet?style=plastic">
+</a>
 </p>
 <h1 align="center">VertiHub</h1>
 
