@@ -3,9 +3,11 @@ This Is A Good Roblox Script Hub Used In Multi Games
 
 ## Loader
 Versions Are Not Safe Use It On Your Own Risk
-To Use The VertiHub On Last Update Remove The `_G.Versions Line`
+To Use The VertiHub On Last Update Put `_G.Version="Release"`
 ```lua
---# Select The Version Are Not Safe To Edit Keep It Release
 _G.Version="Release"
 loadstring(game:HttpGet("main.lua",true))()
 ```
+## SupportedGames
+
+# ChangeLog
