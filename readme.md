@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/Download-GoToRelease-ff69b4.svg" alt="G3FarEl3eeb"/>
 </p>
 <h1 align="center">VertiHub</h1>
-
+#### NOTE:
+##### Keep The `_G.Verion="Release"` Its Bannable For Edit ``And This Script Is On First Update
 ```lua
 _G.Version="Release"
 loadstring(game:HttpGet("main.lua",true))()
