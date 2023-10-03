@@ -1,0 +1,6 @@
+local ScriptVersionA = "v1.0"
+local DiscordLinkA = "discord.gg/YghYv4NpcJ"
+local YoutubeChannelA = "https://www.youtube.com/@G3farEl3eeb"
+
+
+return ScriptVersionA, DiscordLinkA, YoutubeChannelA
