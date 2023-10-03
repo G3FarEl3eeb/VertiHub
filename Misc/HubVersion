@@ -1,0 +1,4 @@
+local HubVersion = "v1.0"
+
+
+return HubVersion
