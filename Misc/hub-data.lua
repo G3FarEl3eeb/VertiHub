@@ -1,4 +1,2 @@
-local ScriptVersion = 1.0
-local ScriptDiscord = nil
-
-return ScriptVersion, ScriptDiscord
+local DiscordInvite = "discord.gg/YghYv4NpcJ"
+return DiscordInvite
